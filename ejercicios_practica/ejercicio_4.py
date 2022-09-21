@@ -24,4 +24,4 @@ palabra_3 = str(input())
 # Ejemplo: Alumbrado, barrido y limpieza --> ABL
 # Imprimir el resultado en pantalla
 
-print(palabra_1[0],palabra_2[0],palabra_3[0])
+print(palabra_1[0] + palabra_2[0] + palabra_3[0])
