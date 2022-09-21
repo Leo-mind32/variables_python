@@ -23,7 +23,7 @@ print(nombre , apellido)
 # Almacenar su nombre completo en una variable
 # nombre_completo = .....
 
-nombre_completo = nombre + apellido
+nombre_completo = nombre + ' ' + apellido
 print(nombre_completo)
 
 # Imprimir la cantidad de letras que posee su nombre completo
